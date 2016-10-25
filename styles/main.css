@@ -262,7 +262,7 @@ header {
 
 .hovereffect a, hovereffect p {
   color: #FFF;
-  padding: 1em 0;
+  padding-top: 1em;
   opacity: 0;
   text-decoration: none;
   width: 100%;
@@ -341,11 +341,11 @@ header {
 	color: #FFF;
 	transition: all .1s ease-in-out;
 	text-decoration: none;
-	margin-top: 0.5%;
-	width: 3%;
+	margin-top: -0.3%;
+	width: 4.5%;
 	margin-left: auto;
 	margin-right: auto;
-	opacity: 0.6;
+	opacity: 0.8;
 }
 
 .footer hover {
