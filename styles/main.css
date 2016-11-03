@@ -18,7 +18,6 @@ body {
 	z-index: -5;
 }
 
-
 a {
 	cursor:pointer;
 }
@@ -41,13 +40,13 @@ h2 {
 }
 
 .clearfix:after {
-     content: ".";
-     display: block;
-     clear: both;
-     visibility: hidden;
-     line-height: 0;
-     height: 0;
-     box-sizing: inherit;
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+  box-sizing: inherit;
 }
 
 .main-container {
@@ -59,7 +58,6 @@ header {
 	height: 50px;
 	background-color: white;
 	opacity: .9;
-	/*position: fixed;*/
 }
 
 #nav-list {
@@ -260,7 +258,7 @@ header {
   transform: translate3d(0,-100%,0);
 }
 
-.hovereffect a, hovereffect p {
+.hovereffect a, .hovereffect p {
   color: #FFF;
   padding-top: 1em;
   opacity: 0;
@@ -314,6 +312,14 @@ header {
 	float: left;
 	margin: 20px;
 	text-align: center;
+}
+
+.social-logo:hover {
+	opacity: 0.3;
+}
+
+.footer:hover {
+	opacity: 0.3;
 }
 
 @media screen and (max-width: 420px) {
