@@ -278,6 +278,37 @@ header {
   transform: translate3d(0,0,0);
 }
 
+.battleship {
+	margin-left: 20%;
+	margin-right: 10%;
+	margin-bottom: 0;
+}
+
+.modern-design {
+	margin-right: 15%;
+	margin-bottom: 0px;
+}
+
+.battleship img {
+	margin-bottom: 0px;	
+}
+
+.modern-design img {
+	margin-bottom: 0px;
+}
+
+.hack-overflow {
+	margin-left: 12.5%;
+}
+
+.casual-hire {
+
+}
+
+.portfolio {
+	background-color: #fff;
+}
+
 .contact {
 	display: block;
 	width: 100%;
