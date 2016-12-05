@@ -278,19 +278,19 @@ header {
   transform: translate3d(0,0,0);
 }
 
-.battleship {
+.modern-design {
 	margin-left: 20%;
 	margin-right: 10%;
 	margin-bottom: 0;
 }
 
-.modern-design {
+.final-project {
 	margin-right: 15%;
 	margin-bottom: 0px;
 }
 
 .battleship img {
-	margin-bottom: 0px;	
+	margin-bottom: 0px;
 }
 
 .modern-design img {
